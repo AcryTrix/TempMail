@@ -27,5 +27,3 @@ This Python script interacts with the 1secmail service API to generate a tempora
 
 - The script saves each message to a separate text file in the `all_mails` directory.
 - Ensure proper permissions and handling of sensitive information when using temporary email addresses.
-
-Feel free to customize this README according to your project's specific details. If you have any questions or need further assistance, please let me know!
